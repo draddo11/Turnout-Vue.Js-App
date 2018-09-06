@@ -21,4 +21,5 @@ npm run lint
 ```
 # Turnout-Vue.Js-App
 # Turnout-Vue.Js-App
-https://jolly-wescoff-845012.netlify.com
+## Link:
+turnout11.netlify.com
